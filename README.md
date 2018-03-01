@@ -1,7 +1,7 @@
 # Change the Woocommerce star ratings to show stars rather than theme ratings
 We must show thanks to the Woo ninjas for this loving tutorial.
 
-The default rating system that comes with WooCommerce is the stars, but we have disable this so that the rating system matched our themes. If you wold like to replace this with the WooCommerce default. Save the image below or get it from “plugins/WooCommerce/assets/images” and place it  in your themes “images” folder{star}(https://i2.wp.com/www.pootlepress.com/wp-content/uploads/2014/04/star.png)Then add the following to your custom.css (if you have child theme the style.css) :
+The default rating system that comes with WooCommerce is the stars, but we have disable this so that the rating system matched our themes. If you wold like to replace this with the WooCommerce default. Save the image below or get it from “plugins/WooCommerce/assets/images” and place it  in your themes “images” folder{star}(https://i2.wp.com/www.pootlepress.com/wp-content/uploads/2014/04/star.png) Then add the following to your custom.css (if you have child theme the style.css) :
 
 ```
 .star-rating{float:right;width:80px;height:16px;background:url(images/star.png) repeat-x left 0} 
