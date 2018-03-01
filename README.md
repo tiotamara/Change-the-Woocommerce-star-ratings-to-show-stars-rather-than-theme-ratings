@@ -1,0 +1,1 @@
+# Change-the-Woocommerce-star-ratings-to-show-stars-rather-than-theme-ratings
